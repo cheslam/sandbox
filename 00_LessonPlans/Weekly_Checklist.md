@@ -6,51 +6,51 @@ Follow the steps in order, ticking them off as you go.
 ---
 
 ## 🔹 Before You Start
-- [ ] Open the `Coding_Roadmap` folder in VS Code.
-- [ ] Open the integrated terminal (make sure you’re at the repo root).
-- [ ] Run `git status` to confirm your starting point.
-- [ ] Open this week’s lesson plan: `00_LessonPlans/Week_XX.md`.
+- [X] Open the `Coding_Roadmap` folder in VS Code.
+- [X] Open the integrated terminal (make sure you’re at the repo root).
+- [X] Run `git status` to confirm your starting point.
+- [X] Open this week’s lesson plan: `00_LessonPlans/Week_XX.md`.
 
 ---
 
 ## 🔹 Core Work (Learning Block)
-- [ ] Work through the week’s lesson plan, step by step.
-- [ ] Break new coding tasks into small English steps before writing code.
-- [ ] Run and test scripts incrementally in the **terminal** and/or **Interactive Window**.
-- [ ] Add comments/docstrings as you go (teach future-you what’s happening).
+- [X] Work through the week’s lesson plan, step by step.
+- [X] Break new coding tasks into small English steps before writing code.
+- [X] Run and test scripts incrementally in the **terminal** and/or **Interactive Window**.
+- [X] Add comments/docstrings as you go (teach future-you what’s happening).
 
 ---
 
 ## 🔹 GitHub Workflow (Version Control)
-- [ ] Stage changes: `git add .`
-- [ ] Commit: `git commit -m "Clear, short summary of changes"`
-- [ ] Push: `git push`
-- [ ] Check GitHub repo page to confirm files are updated.
+- [X] Stage changes: `git add .`
+- [X] Commit: `git commit -m "Clear, short summary of changes"`
+- [X] Push: `git push`
+- [X] Check GitHub repo page to confirm files are updated.
 
 ---
 
 ## 🔹 Documentation & Reflection
-- [ ] Update `README.md` with a bullet for this week’s deliverables.
-- [ ] Update notes in `02_Notes/`:
+- [X] Update `README.md` with a bullet for this week’s deliverables.
+- [X] Update notes in `02_Notes/`:
   - `wins_and_frustrations.md` → 2–3 per side.
   - `ideas.md` → new script or automation ideas.
   - `questions.md` → lingering confusions.
-- [ ] Add/update `Week_XX_Summary.md` with what you learned this session.
-- [ ] Copy/paste ChatGPT transcript into `ChatGPT_logs/Week_XX_log.md`
+- [X] Add/update `Week_XX_Summary.md` with what you learned this session.
+
 
 ---
 
 ## 🔹 Prep for Next Week
-- [ ] Copy/create next week’s lesson plan in `00_LessonPlans/Week_XX.md`.
-- [ ] Draft a mid-week booster outline (drills + refactor + repo reading).
-- [ ] Save & commit/push these prep files.
+- [X] Copy/create next week’s lesson plan in `00_LessonPlans/Week_XX.md`.
+- [X] Draft a mid-week booster outline (drills + refactor + repo reading).
+- [X] Save & commit/push these prep files.
 
 ---
 
 ## 🔹 Close Out
+- [] Add ChatGPT transcript into `ChatGPT_logs/Week_XX_log.md`
 - [ ] Do a final `git status` → confirm clean working tree.
 - [ ] Push one last time to make sure everything is synced.
-- [ ] Jot a one-line summary in your log (ChatGPT or `ChatGPT_Logs/Week_XX_ChatGPT_Log.md`).
 - [ ] Review this checklist before closing VS Code.
 
 ---
