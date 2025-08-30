@@ -3,3 +3,4 @@
 - `.gitignore` file created
 - Practiced Git branch/merge
 - Repo pushed to GitHub
+- `README.md` file created 
