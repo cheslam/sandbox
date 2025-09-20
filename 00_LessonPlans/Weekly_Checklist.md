@@ -48,7 +48,7 @@ Follow the steps in order, ticking them off as you go.
 ---
 
 ## 🔹 Close Out
-- [] Add ChatGPT transcript into `ChatGPT_logs/Week_XX_log.md`
+- [X] Add ChatGPT transcript into `ChatGPT_logs/Week_XX_log.md`
 - [ ] Do a final `git status` → confirm clean working tree.
 - [ ] Push one last time to make sure everything is synced.
 - [ ] Review this checklist before closing VS Code.

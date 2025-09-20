@@ -24,5 +24,4 @@ else:
             print("Age must be less than 120 years old")
         else:
             yr_100 = year_when_100(age, today)
-if 'yr_100' in locals():
-    print(f"Hello {name}, you will turn 100 in the year {yr_100}!")
+            print(f"Hello {name}, you will turn 100 in the year {yr_100}!")
