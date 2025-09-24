@@ -35,3 +35,11 @@
 - Continue regular commits with descriptive messages.  
 - Practice using **branches** again, but for a meaningful feature addition this time.  
 - Keep updating notes and weekly wrap-ups to reinforce learning.  
+
+
+--- 
+# Booster Session
+- Strengthened `input()` skills
+- Practiced defining functions
+- I learned that you can iterate over an object without using `range(len())`
+- I also learned that you can natively index characters in a string!
